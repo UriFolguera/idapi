@@ -1,0 +1,7517 @@
+[
+  {
+    "id": 4608798001,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 10380,
+    "position": 1,
+    "player": {
+      "id": 47275,
+      "name": "Jannik Sinner",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798002,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 8850,
+    "position": 2,
+    "player": {
+      "id": 68074,
+      "name": "Carlos Alcaraz",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798003,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 7285,
+    "position": 3,
+    "player": {
+      "id": 24008,
+      "name": "Alexander Zverev",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798004,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 4625,
+    "position": 4,
+    "player": {
+      "id": 29932,
+      "name": "Taylor Fritz",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798005,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 4610,
+    "position": 5,
+    "player": {
+      "id": 63017,
+      "name": "Jack Draper",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798006,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 4080,
+    "position": 6,
+    "player": {
+      "id": 5992,
+      "name": "Novak Djokovic",
+      "countryAcr": "SRB",
+      "country": {
+        "name": "Serbia",
+        "acronym": "SRB"
+      }
+    }
+  },
+  {
+    "id": 4608798007,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 3905,
+    "position": 7,
+    "player": {
+      "id": 33648,
+      "name": "Casper Ruud",
+      "countryAcr": "NOR",
+      "country": {
+        "name": "Norway",
+        "acronym": "NOR"
+      }
+    }
+  },
+  {
+    "id": 4608798008,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 3860,
+    "position": 8,
+    "player": {
+      "id": 63572,
+      "name": "Lorenzo Musetti",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798009,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 3635,
+    "position": 9,
+    "player": {
+      "id": 39309,
+      "name": "Alex De Minaur",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798010,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 3440,
+    "position": 10,
+    "player": {
+      "id": 69471,
+      "name": "Holger Rune",
+      "countryAcr": "DEN",
+      "country": {
+        "name": "Denmark",
+        "acronym": "DEN"
+      }
+    }
+  },
+  {
+    "id": 4608798011,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 3290,
+    "position": 11,
+    "player": {
+      "id": 22807,
+      "name": "Daniil Medvedev",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798012,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 3210,
+    "position": 12,
+    "player": {
+      "id": 29935,
+      "name": "Tommy Paul",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798013,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2980,
+    "position": 13,
+    "player": {
+      "id": 87562,
+      "name": "Ben Shelton",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798014,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2845,
+    "position": 14,
+    "player": {
+      "id": 83135,
+      "name": "Arthur Fils",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798015,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2625,
+    "position": 15,
+    "player": {
+      "id": 29939,
+      "name": "Frances Tiafoe",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798016,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2595,
+    "position": 16,
+    "player": {
+      "id": 11953,
+      "name": "Grigor Dimitrov",
+      "countryAcr": "BUL",
+      "country": {
+        "name": "Bulgaria",
+        "acronym": "BUL"
+      }
+    }
+  },
+  {
+    "id": 4608798017,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2540,
+    "position": 17,
+    "player": {
+      "id": 29372,
+      "name": "Andrey Rublev",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798018,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2475,
+    "position": 18,
+    "player": {
+      "id": 52279,
+      "name": "Francisco Cerundolo",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798019,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2272,
+    "position": 19,
+    "player": {
+      "id": 86691,
+      "name": "Jakub Mensik",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798020,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2270,
+    "position": 20,
+    "player": {
+      "id": 30470,
+      "name": "Stefanos Tsitsipas",
+      "countryAcr": "GRE",
+      "country": {
+        "name": "Greece",
+        "acronym": "GRE"
+      }
+    }
+  },
+  {
+    "id": 4608798021,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2265,
+    "position": 21,
+    "player": {
+      "id": 58327,
+      "name": "Tomas Machac",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798022,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2155,
+    "position": 22,
+    "player": {
+      "id": 38911,
+      "name": "Ugo Humbert",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798023,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 2020,
+    "position": 23,
+    "player": {
+      "id": 42451,
+      "name": "Sebastian Korda",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798024,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1910,
+    "position": 24,
+    "player": {
+      "id": 25543,
+      "name": "Karen Khachanov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798025,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1900,
+    "position": 25,
+    "player": {
+      "id": 34233,
+      "name": "Alexei Popyrin",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798026,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1730,
+    "position": 26,
+    "player": {
+      "id": 36519,
+      "name": "Alejandro Davidovich Fokina",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798027,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1726,
+    "position": 27,
+    "player": {
+      "id": 33502,
+      "name": "Denis Shapovalov",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798028,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1720,
+    "position": 28,
+    "player": {
+      "id": 29812,
+      "name": "Matteo Berrettini",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798029,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1690,
+    "position": 29,
+    "player": {
+      "id": 56846,
+      "name": "Brandon Nakashima",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798030,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1685,
+    "position": 30,
+    "player": {
+      "id": 40434,
+      "name": "Felix Auger Aliassime",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798031,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1665,
+    "position": 31,
+    "player": {
+      "id": 26473,
+      "name": "Hubert Hurkacz",
+      "countryAcr": "POL",
+      "country": {
+        "name": "Poland",
+        "acronym": "POL"
+      }
+    }
+  },
+  {
+    "id": 4608798032,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1614,
+    "position": 32,
+    "player": {
+      "id": 71174,
+      "name": "Giovanni Mpetshi Perricard",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798033,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1550,
+    "position": 33,
+    "player": {
+      "id": 92985,
+      "name": "Alex Michelsen",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798034,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1485,
+    "position": 34,
+    "player": {
+      "id": 33860,
+      "name": "Tallon Griekspoor",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798035,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1480,
+    "position": 35,
+    "player": {
+      "id": 67546,
+      "name": "Flavio Cobolli",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798036,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1450,
+    "position": 36,
+    "player": {
+      "id": 52721,
+      "name": "Sebastian Baez",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798037,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1415,
+    "position": 37,
+    "player": {
+      "id": 61838,
+      "name": "Jiri Lehecka",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798038,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1375,
+    "position": 38,
+    "player": {
+      "id": 22433,
+      "name": "Jordan Thompson",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798039,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1365,
+    "position": 39,
+    "player": {
+      "id": 73956,
+      "name": "Matteo Arnaldi",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798040,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1313,
+    "position": 40,
+    "player": {
+      "id": 28108,
+      "name": "Alexandre Muller",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798041,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1270,
+    "position": 41,
+    "player": {
+      "id": 31446,
+      "name": "Nuno Borges",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798042,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1265,
+    "position": 42,
+    "player": {
+      "id": 5917,
+      "name": "Gael Monfils",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798043,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1265,
+    "position": 43,
+    "player": {
+      "id": 18736,
+      "name": "Marcos Giron",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798044,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1205,
+    "position": 44,
+    "player": {
+      "id": 31392,
+      "name": "Lorenzo Sonego",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798045,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1159,
+    "position": 45,
+    "player": {
+      "id": 76127,
+      "name": "Luciano Darderi",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798046,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1146,
+    "position": 46,
+    "player": {
+      "id": 34337,
+      "name": "Miomir Kecmanovic",
+      "countryAcr": "SRB",
+      "country": {
+        "name": "Serbia",
+        "acronym": "SRB"
+      }
+    }
+  },
+  {
+    "id": 4608798047,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1118,
+    "position": 47,
+    "player": {
+      "id": 11226,
+      "name": "David Goffin",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798048,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1070,
+    "position": 48,
+    "player": {
+      "id": 27358,
+      "name": "Pedro Martinez Portero",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798049,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1051,
+    "position": 49,
+    "player": {
+      "id": 37741,
+      "name": "Zizou Bergs",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798050,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1024,
+    "position": 50,
+    "player": {
+      "id": 25171,
+      "name": "Quentin Halys",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798051,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1005,
+    "position": 51,
+    "player": {
+      "id": 24245,
+      "name": "Alexander Bublik",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798052,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 1000,
+    "position": 52,
+    "player": {
+      "id": 42229,
+      "name": "Camilo Ugo Carabelli",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798053,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 997,
+    "position": 53,
+    "player": {
+      "id": 68627,
+      "name": "Gabriel Diallo",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798054,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 976,
+    "position": 54,
+    "player": {
+      "id": 68090,
+      "name": "Jacob Fearnley",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798055,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 975,
+    "position": 55,
+    "player": {
+      "id": 37532,
+      "name": "Tomas Martin Etcheverry",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798056,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 975,
+    "position": 56,
+    "player": {
+      "id": 52140,
+      "name": "Fabian Marozsan",
+      "countryAcr": "HUN",
+      "country": {
+        "name": "Hungary",
+        "acronym": "HUN"
+      }
+    }
+  },
+  {
+    "id": 4608798057,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 974,
+    "position": 57,
+    "player": {
+      "id": 1837,
+      "name": "Roberto Bautista Agut",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798058,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 962,
+    "position": 58,
+    "player": {
+      "id": 31358,
+      "name": "Jaume Antoni Munar Clar",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798059,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 952,
+    "position": 59,
+    "player": {
+      "id": 24084,
+      "name": "Laslo Djere",
+      "countryAcr": "SRB",
+      "country": {
+        "name": "Serbia",
+        "acronym": "SRB"
+      }
+    }
+  },
+  {
+    "id": 4608798060,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 943,
+    "position": 60,
+    "player": {
+      "id": 28899,
+      "name": "Benjamin Bonzi",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798061,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 940,
+    "position": 61,
+    "player": {
+      "id": 30087,
+      "name": "Alejandro Tabilo",
+      "countryAcr": "CHI",
+      "country": {
+        "name": "Chile",
+        "acronym": "CHI"
+      }
+    }
+  },
+  {
+    "id": 4608798062,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 928,
+    "position": 62,
+    "player": {
+      "id": 8806,
+      "name": "Kei Nishikori",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798063,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 926,
+    "position": 63,
+    "player": {
+      "id": 21506,
+      "name": "Roberto Carballes Baena",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798064,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 911,
+    "position": 64,
+    "player": {
+      "id": 61971,
+      "name": "Francisco Comesana",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798065,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 907,
+    "position": 65,
+    "player": {
+      "id": 91521,
+      "name": "Joao Fonseca",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798066,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 906,
+    "position": 66,
+    "player": {
+      "id": 29732,
+      "name": "Daniel Altmaier",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798067,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 893,
+    "position": 67,
+    "player": {
+      "id": 93452,
+      "name": "Learner Tien",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798068,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 891,
+    "position": 68,
+    "player": {
+      "id": 72578,
+      "name": "Mattia Bellucci",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798069,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 875,
+    "position": 69,
+    "player": {
+      "id": 13447,
+      "name": "Damir Dzumhur",
+      "countryAcr": "BIH",
+      "country": {
+        "name": "Bosnia and Herzegovina",
+        "acronym": "BIH"
+      }
+    }
+  },
+  {
+    "id": 4608798070,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 874,
+    "position": 70,
+    "player": {
+      "id": 61667,
+      "name": "Bu Yunchaokete",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798071,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 822,
+    "position": 71,
+    "player": {
+      "id": 86082,
+      "name": "Juncheng Shang",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798072,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 820,
+    "position": 72,
+    "player": {
+      "id": 28170,
+      "name": "Arthur Rinderknech",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798073,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 816,
+    "position": 73,
+    "player": {
+      "id": 28900,
+      "name": "Roman Safiullin",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798074,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 816,
+    "position": 74,
+    "player": {
+      "id": 46747,
+      "name": "Hugo Gaston",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798075,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 813,
+    "position": 75,
+    "player": {
+      "id": 24225,
+      "name": "Yoshihito Nishioka",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798076,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 812,
+    "position": 76,
+    "player": {
+      "id": 36263,
+      "name": "Corentin Moutet",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798077,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 811,
+    "position": 77,
+    "player": {
+      "id": 79060,
+      "name": "Hamad Medjedovic",
+      "countryAcr": "SRB",
+      "country": {
+        "name": "Serbia",
+        "acronym": "SRB"
+      }
+    }
+  },
+  {
+    "id": 4608798078,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 792,
+    "position": 78,
+    "player": {
+      "id": 28267,
+      "name": "Aleksandar Vukic",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798079,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 792,
+    "position": 79,
+    "player": {
+      "id": 58149,
+      "name": "Rinky Hijikata",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798080,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 787,
+    "position": 80,
+    "player": {
+      "id": 39152,
+      "name": "Aleksandar Kovacevic",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798081,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 785,
+    "position": 81,
+    "player": {
+      "id": 26140,
+      "name": "Zhizhen Zhang",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798082,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 762,
+    "position": 82,
+    "player": {
+      "id": 24721,
+      "name": "Christopher O'Connell",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798083,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 741,
+    "position": 83,
+    "player": {
+      "id": 25165,
+      "name": "Borna Coric",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798084,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 726,
+    "position": 84,
+    "player": {
+      "id": 84235,
+      "name": "Raphael Collignon",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798085,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 715,
+    "position": 85,
+    "player": {
+      "id": 42971,
+      "name": "Vit Kopriva",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798086,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 690,
+    "position": 86,
+    "player": {
+      "id": 14177,
+      "name": "Jan-Lennard Struff",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798087,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 690,
+    "position": 87,
+    "player": {
+      "id": 59166,
+      "name": "Jesper De Jong",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798088,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 689,
+    "position": 88,
+    "player": {
+      "id": 28898,
+      "name": "Kamil Majchrzak",
+      "countryAcr": "POL",
+      "country": {
+        "name": "Poland",
+        "acronym": "POL"
+      }
+    }
+  },
+  {
+    "id": 4608798089,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 670,
+    "position": 89,
+    "player": {
+      "id": 24249,
+      "name": "Botic Van De Zandschulp",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798090,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 657,
+    "position": 90,
+    "player": {
+      "id": 27851,
+      "name": "Cameron Norrie",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798091,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 653,
+    "position": 91,
+    "player": {
+      "id": 47752,
+      "name": "Adam Walton",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798092,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 651,
+    "position": 92,
+    "player": {
+      "id": 11517,
+      "name": "James Duckworth",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798093,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 648,
+    "position": 93,
+    "player": {
+      "id": 47557,
+      "name": "Chun Hsin Tseng",
+      "countryAcr": "TPE",
+      "country": {
+        "name": "Chinese Taipei",
+        "acronym": "TPE"
+      }
+    }
+  },
+  {
+    "id": 4608798094,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 645,
+    "position": 94,
+    "player": {
+      "id": 71221,
+      "name": "Luca Nardi",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798095,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 644,
+    "position": 95,
+    "player": {
+      "id": 28087,
+      "name": "Reilly Opelka",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798096,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 641,
+    "position": 96,
+    "player": {
+      "id": 18477,
+      "name": "Hugo Dellien",
+      "countryAcr": "BOL",
+      "country": {
+        "name": "Bolivia",
+        "acronym": "BOL"
+      }
+    }
+  },
+  {
+    "id": 4608798097,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 630,
+    "position": 97,
+    "player": {
+      "id": 64891,
+      "name": "Alexander Shevchenko",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798098,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 620,
+    "position": 98,
+    "player": {
+      "id": 66828,
+      "name": "Mariano Navone",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798099,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 617,
+    "position": 99,
+    "player": {
+      "id": 18094,
+      "name": "Mackenzie Mcdonald",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798100,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 615,
+    "position": 100,
+    "player": {
+      "id": 14432,
+      "name": "Pablo Carreno-Busta",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798101,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 598,
+    "position": 101,
+    "player": {
+      "id": 92184,
+      "name": "Nishesh Basavareddy",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798102,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 583,
+    "position": 102,
+    "player": {
+      "id": 47566,
+      "name": "Brandon Holt",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798103,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 582,
+    "position": 103,
+    "player": {
+      "id": 29180,
+      "name": "Billy Harris",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798104,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 563,
+    "position": 104,
+    "player": {
+      "id": 6101,
+      "name": "Marin Cilic",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798105,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 558,
+    "position": 105,
+    "player": {
+      "id": 26381,
+      "name": "Christopher Eubanks",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798106,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 538,
+    "position": 106,
+    "player": {
+      "id": 82269,
+      "name": "Ethan Quinn",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798107,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 536,
+    "position": 107,
+    "player": {
+      "id": 4067,
+      "name": "Fabio Fognini",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798108,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 536,
+    "position": 108,
+    "player": {
+      "id": 81189,
+      "name": "Elmer Moller",
+      "countryAcr": "DEN",
+      "country": {
+        "name": "Denmark",
+        "acronym": "DEN"
+      }
+    }
+  },
+  {
+    "id": 4608798109,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 530,
+    "position": 109,
+    "player": {
+      "id": 52934,
+      "name": "Juan Manuel Cerundolo",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798110,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 529,
+    "position": 110,
+    "player": {
+      "id": 30849,
+      "name": "Tomas Barrios Vera",
+      "countryAcr": "CHI",
+      "country": {
+        "name": "Chile",
+        "acronym": "CHI"
+      }
+    }
+  },
+  {
+    "id": 4608798111,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 518,
+    "position": 111,
+    "player": {
+      "id": 22432,
+      "name": "Thanasi Kokkinakis",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798112,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 513,
+    "position": 112,
+    "player": {
+      "id": 36858,
+      "name": "Thiago Seyboth Wild",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798113,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 508,
+    "position": 113,
+    "player": {
+      "id": 70873,
+      "name": "Arthur Cazaux",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798114,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 498,
+    "position": 114,
+    "player": {
+      "id": 55252,
+      "name": "Otto Virtanen",
+      "countryAcr": "FIN",
+      "country": {
+        "name": "Finland",
+        "acronym": "FIN"
+      }
+    }
+  },
+  {
+    "id": 4608798115,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 493,
+    "position": 115,
+    "player": {
+      "id": 83795,
+      "name": "Jaime Faria",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798116,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 492,
+    "position": 116,
+    "player": {
+      "id": 71083,
+      "name": "Eliot Spizzirri",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798117,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 485,
+    "position": 117,
+    "player": {
+      "id": 70705,
+      "name": "Roman Andres Burruchaga",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798118,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 482,
+    "position": 118,
+    "player": {
+      "id": 26845,
+      "name": "Daniel Elahi Galan",
+      "countryAcr": "COL",
+      "country": {
+        "name": "Colombia",
+        "acronym": "COL"
+      }
+    }
+  },
+  {
+    "id": 4608798119,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 479,
+    "position": 119,
+    "player": {
+      "id": 56195,
+      "name": "Tristan Boyer",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798120,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 478,
+    "position": 120,
+    "player": {
+      "id": 61857,
+      "name": "Valentin Royer",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798121,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 477,
+    "position": 121,
+    "player": {
+      "id": 67535,
+      "name": "Terence Atmane",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798122,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 474,
+    "position": 122,
+    "player": {
+      "id": 24840,
+      "name": "Cristian Garin",
+      "countryAcr": "CHI",
+      "country": {
+        "name": "Chile",
+        "acronym": "CHI"
+      }
+    }
+  },
+  {
+    "id": 4608798123,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 474,
+    "position": 123,
+    "player": {
+      "id": 76298,
+      "name": "Jerome Kym",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798124,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 466,
+    "position": 124,
+    "player": {
+      "id": 12190,
+      "name": "Dusan Lajovic",
+      "countryAcr": "SRB",
+      "country": {
+        "name": "Serbia",
+        "acronym": "SRB"
+      }
+    }
+  },
+  {
+    "id": 4608798125,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 466,
+    "position": 125,
+    "player": {
+      "id": 29665,
+      "name": "Carlos Taberner",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798126,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 466,
+    "position": 126,
+    "player": {
+      "id": 63299,
+      "name": "Dalibor Svrcina",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798127,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 464,
+    "position": 127,
+    "player": {
+      "id": 67986,
+      "name": "Tristan Schoolkate",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798128,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 458,
+    "position": 128,
+    "player": {
+      "id": 27547,
+      "name": "Sebastian Ofner",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798129,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 456,
+    "position": 129,
+    "player": {
+      "id": 7806,
+      "name": "Adrian Mannarino",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798130,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 454,
+    "position": 130,
+    "player": {
+      "id": 14609,
+      "name": "Thiago Moura Monteiro",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798131,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 453,
+    "position": 131,
+    "player": {
+      "id": 52394,
+      "name": "Thiago Agustin Tirante",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798132,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 451,
+    "position": 132,
+    "player": {
+      "id": 14716,
+      "name": "Nikoloz Basilashvili",
+      "countryAcr": "GEO",
+      "country": {
+        "name": "Georgia",
+        "acronym": "GEO"
+      }
+    }
+  },
+  {
+    "id": 4608798133,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 446,
+    "position": 133,
+    "player": {
+      "id": 36617,
+      "name": "Felipe Meligeni Alves",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798134,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 443,
+    "position": 134,
+    "player": {
+      "id": 13674,
+      "name": "Marton Fucsovics",
+      "countryAcr": "HUN",
+      "country": {
+        "name": "Hungary",
+        "acronym": "HUN"
+      }
+    }
+  },
+  {
+    "id": 4608798135,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 439,
+    "position": 135,
+    "player": {
+      "id": 20193,
+      "name": "Lucas Pouille",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798136,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 439,
+    "position": 136,
+    "player": {
+      "id": 79088,
+      "name": "Vilius Gaubas",
+      "countryAcr": "LTU",
+      "country": {
+        "name": "Lithuania",
+        "acronym": "LTU"
+      }
+    }
+  },
+  {
+    "id": 4608798137,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 435,
+    "position": 137,
+    "player": {
+      "id": 14856,
+      "name": "Yannick Hanfmann",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798138,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 433,
+    "position": 138,
+    "player": {
+      "id": 56197,
+      "name": "Emilio Nava",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798139,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 432,
+    "position": 139,
+    "player": {
+      "id": 1092,
+      "name": "Stan Wawrinka",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798140,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 423,
+    "position": 140,
+    "player": {
+      "id": 63021,
+      "name": "Francesco Passaro",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798141,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 422,
+    "position": 141,
+    "player": {
+      "id": 17123,
+      "name": "Mitchell Krueger",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798142,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 413,
+    "position": 142,
+    "player": {
+      "id": 35376,
+      "name": "Federico Agustin Gomez",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798143,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 411,
+    "position": 143,
+    "player": {
+      "id": 18720,
+      "name": "Federico Coria",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798144,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 410,
+    "position": 144,
+    "player": {
+      "id": 20648,
+      "name": "Taro Daniel",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798145,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 410,
+    "position": 145,
+    "player": {
+      "id": 88766,
+      "name": "Alexander Blockx",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798146,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 407,
+    "position": 146,
+    "player": {
+      "id": 45553,
+      "name": "Pavel Kotov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798147,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 404,
+    "position": 147,
+    "player": {
+      "id": 94493,
+      "name": "Martin Landaluce",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798148,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 403,
+    "position": 148,
+    "player": {
+      "id": 53532,
+      "name": "Liam Draxl",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798149,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 399,
+    "position": 149,
+    "player": {
+      "id": 14727,
+      "name": "Pierre-Hugues Herbert",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798150,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 390,
+    "position": 150,
+    "player": {
+      "id": 27482,
+      "name": "Nicolas Jarry",
+      "countryAcr": "CHI",
+      "country": {
+        "name": "Chile",
+        "acronym": "CHI"
+      }
+    }
+  },
+  {
+    "id": 4608798151,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 388,
+    "position": 151,
+    "player": {
+      "id": 65904,
+      "name": "Kyrian Jacquet",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798152,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 386,
+    "position": 152,
+    "player": {
+      "id": 33284,
+      "name": "Nicolas Moreno De Alboran",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798153,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 383,
+    "position": 153,
+    "player": {
+      "id": 60140,
+      "name": "Harold Mayot",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798154,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 376,
+    "position": 154,
+    "player": {
+      "id": 29906,
+      "name": "Juan Pablo Ficovich",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798155,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 374,
+    "position": 155,
+    "player": {
+      "id": 51417,
+      "name": "Filip Misolic",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798156,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 373,
+    "position": 156,
+    "player": {
+      "id": 28263,
+      "name": "Max Purcell",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798157,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 370,
+    "position": 157,
+    "player": {
+      "id": 73742,
+      "name": "Shintaro Mochizuki",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798158,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 360,
+    "position": 158,
+    "player": {
+      "id": 21464,
+      "name": "Alexander Ritschard",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798159,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 358,
+    "position": 159,
+    "player": {
+      "id": 34349,
+      "name": "Hady Habib",
+      "countryAcr": "LIB",
+      "country": {
+        "name": "Lebanon",
+        "acronym": "LIB"
+      }
+    }
+  },
+  {
+    "id": 4608798160,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 350,
+    "position": 160,
+    "player": {
+      "id": 35297,
+      "name": "Marc-Andrea Huesler",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798161,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 348,
+    "position": 161,
+    "player": {
+      "id": 47021,
+      "name": "Zsombor Piros",
+      "countryAcr": "HUN",
+      "country": {
+        "name": "Hungary",
+        "acronym": "HUN"
+      }
+    }
+  },
+  {
+    "id": 4608798162,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 347,
+    "position": 162,
+    "player": {
+      "id": 89108,
+      "name": "Colton Smith",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798163,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 344,
+    "position": 163,
+    "player": {
+      "id": 9043,
+      "name": "Mikhail Kukushkin",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798164,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 343,
+    "position": 164,
+    "player": {
+      "id": 23142,
+      "name": "Dmitry Popko",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798165,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 340,
+    "position": 165,
+    "player": {
+      "id": 40609,
+      "name": "Jenson Brooksby",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798166,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 339,
+    "position": 166,
+    "player": {
+      "id": 674,
+      "name": "Richard Gasquet",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798167,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 338,
+    "position": 167,
+    "player": {
+      "id": 80019,
+      "name": "Matteo Gigante",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798168,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 333,
+    "position": 168,
+    "player": {
+      "id": 22710,
+      "name": "Li Tu",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798169,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 333,
+    "position": 169,
+    "player": {
+      "id": 72877,
+      "name": "Alibek Kachmazov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798170,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 332,
+    "position": 170,
+    "player": {
+      "id": 26922,
+      "name": "Sumit Nagal",
+      "countryAcr": "IND",
+      "country": {
+        "name": "India",
+        "acronym": "IND"
+      }
+    }
+  },
+  {
+    "id": 4608798171,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 331,
+    "position": 171,
+    "player": {
+      "id": 25533,
+      "name": "Calvin Hemery",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798172,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 328,
+    "position": 172,
+    "player": {
+      "id": 54163,
+      "name": "Chris Rodesch",
+      "countryAcr": "LUX",
+      "country": {
+        "name": "Luxembourg",
+        "acronym": "LUX"
+      }
+    }
+  },
+  {
+    "id": 4608798173,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 328,
+    "position": 173,
+    "player": {
+      "id": 29457,
+      "name": "Andrea Pellegrino",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798174,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 325,
+    "position": 174,
+    "player": {
+      "id": 62166,
+      "name": "James Kent Trotter",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798175,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 322,
+    "position": 175,
+    "player": {
+      "id": 71166,
+      "name": "Chak Lam Coleman Wong",
+      "countryAcr": "HKG",
+      "country": {
+        "name": "Hong Kong",
+        "acronym": "HKG"
+      }
+    }
+  },
+  {
+    "id": 4608798176,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 317,
+    "position": 176,
+    "player": {
+      "id": 28932,
+      "name": "Hugo Grenier",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798177,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 316,
+    "position": 177,
+    "player": {
+      "id": 79113,
+      "name": "Ignacio Buse",
+      "countryAcr": "PER",
+      "country": {
+        "name": "Peru",
+        "acronym": "PER"
+      }
+    }
+  },
+  {
+    "id": 4608798178,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 316,
+    "position": 178,
+    "player": {
+      "id": 12653,
+      "name": "Marco Trungelliti",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798179,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 313,
+    "position": 179,
+    "player": {
+      "id": 82371,
+      "name": "Luca Van Assche",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798180,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 309,
+    "position": 180,
+    "player": {
+      "id": 66379,
+      "name": "Alvaro Guillen Meza",
+      "countryAcr": "ECU",
+      "country": {
+        "name": "Ecuador",
+        "acronym": "ECU"
+      }
+    }
+  },
+  {
+    "id": 4608798181,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 308,
+    "position": 181,
+    "player": {
+      "id": 83315,
+      "name": "James McCabe",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798182,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 303,
+    "position": 182,
+    "player": {
+      "id": 47543,
+      "name": "Duje Ajdukovic",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798183,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 301,
+    "position": 183,
+    "player": {
+      "id": 83314,
+      "name": "Lukas Neumayer",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798184,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 299,
+    "position": 184,
+    "player": {
+      "id": 32729,
+      "name": "Yosuke Watanuki",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798185,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 299,
+    "position": 185,
+    "player": {
+      "id": 19474,
+      "name": "Constant Lestienne",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798186,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 298,
+    "position": 186,
+    "player": {
+      "id": 53722,
+      "name": "Federico Arnaboldi",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798187,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 295,
+    "position": 187,
+    "player": {
+      "id": 84236,
+      "name": "Guy Den Ouden",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798188,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 293,
+    "position": 188,
+    "player": {
+      "id": 47387,
+      "name": "August Holmgren",
+      "countryAcr": "DEN",
+      "country": {
+        "name": "Denmark",
+        "acronym": "DEN"
+      }
+    }
+  },
+  {
+    "id": 4608798189,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 292,
+    "position": 189,
+    "player": {
+      "id": 39863,
+      "name": "Sho Shimabukuro",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798190,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 291,
+    "position": 190,
+    "player": {
+      "id": 37085,
+      "name": "Lukas Klein",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798191,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 291,
+    "position": 191,
+    "player": {
+      "id": 55257,
+      "name": "Timofey Skatov",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798192,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 291,
+    "position": 192,
+    "player": {
+      "id": 48871,
+      "name": "Yuta Shimizu",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798193,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 289,
+    "position": 193,
+    "player": {
+      "id": 44595,
+      "name": "Ugo Blanchet",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798194,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 287,
+    "position": 194,
+    "player": {
+      "id": 74899,
+      "name": "Gustavo Heide",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798195,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 282,
+    "position": 195,
+    "player": {
+      "id": 26421,
+      "name": "Jan Choinski",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798196,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 281,
+    "position": 196,
+    "player": {
+      "id": 19689,
+      "name": "Alex Bolt",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798197,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 280,
+    "position": 197,
+    "player": {
+      "id": 60625,
+      "name": "Alejandro Moro Canas",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798198,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 280,
+    "position": 198,
+    "player": {
+      "id": 34537,
+      "name": "Fajing Sun",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798199,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 279,
+    "position": 199,
+    "player": {
+      "id": 87283,
+      "name": "Mark Lajal",
+      "countryAcr": "EST",
+      "country": {
+        "name": "Estonia",
+        "acronym": "EST"
+      }
+    }
+  },
+  {
+    "id": 4608798200,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 278,
+    "position": 200,
+    "player": {
+      "id": 65903,
+      "name": "Arthur Bouquier",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798201,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 278,
+    "position": 201,
+    "player": {
+      "id": 83794,
+      "name": "Henrique Rocha",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798202,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 277,
+    "position": 202,
+    "player": {
+      "id": 64741,
+      "name": "Facundo Diaz Acosta",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798203,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 277,
+    "position": 203,
+    "player": {
+      "id": 39043,
+      "name": "Alexis Galarneau",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798204,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 275,
+    "position": 204,
+    "player": {
+      "id": 12498,
+      "name": "Andrea Collarini",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798205,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 272,
+    "position": 205,
+    "player": {
+      "id": 16996,
+      "name": "Yasutaka Uchiyama",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798206,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 271,
+    "position": 206,
+    "player": {
+      "id": 26965,
+      "name": "Omar Jasika",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798207,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 271,
+    "position": 207,
+    "player": {
+      "id": 81980,
+      "name": "Murphy Cassone",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798208,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 271,
+    "position": 208,
+    "player": {
+      "id": 51853,
+      "name": "Pol Martin Tiffon",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798209,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 271,
+    "position": 209,
+    "player": {
+      "id": 38876,
+      "name": "Santiago Rodriguez Taverna",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798210,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 267,
+    "position": 210,
+    "player": {
+      "id": 14745,
+      "name": "Jason Murray Kubler",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798211,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 267,
+    "position": 211,
+    "player": {
+      "id": 87766,
+      "name": "Edas Butvilas",
+      "countryAcr": "LTU",
+      "country": {
+        "name": "Lithuania",
+        "acronym": "LTU"
+      }
+    }
+  },
+  {
+    "id": 4608798212,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 266,
+    "position": 212,
+    "player": {
+      "id": 13048,
+      "name": "Jozef Kovalik",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798213,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 264,
+    "position": 213,
+    "player": {
+      "id": 18524,
+      "name": "Aslan Karatsev",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798214,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 264,
+    "position": 214,
+    "player": {
+      "id": 76010,
+      "name": "Daniel Rincon",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798215,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 263,
+    "position": 215,
+    "player": {
+      "id": 9305,
+      "name": "Daniel Evans",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798216,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 262,
+    "position": 216,
+    "player": {
+      "id": 10404,
+      "name": "Yan Bai",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798217,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 261,
+    "position": 217,
+    "player": {
+      "id": 14898,
+      "name": "Facundo Mena",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798218,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 261,
+    "position": 218,
+    "player": {
+      "id": 14861,
+      "name": "Antoine Escoffier",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798219,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 260,
+    "position": 219,
+    "player": {
+      "id": 53909,
+      "name": "Luka Pavlovic",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798220,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 258,
+    "position": 220,
+    "player": {
+      "id": 27205,
+      "name": "Murkel Dellien",
+      "countryAcr": "BOL",
+      "country": {
+        "name": "Bolivia",
+        "acronym": "BOL"
+      }
+    }
+  },
+  {
+    "id": 4608798221,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 253,
+    "position": 221,
+    "player": {
+      "id": 32887,
+      "name": "Benjamin Hassan",
+      "countryAcr": "LIB",
+      "country": {
+        "name": "Lebanon",
+        "acronym": "LIB"
+      }
+    }
+  },
+  {
+    "id": 4608798222,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 250,
+    "position": 222,
+    "player": {
+      "id": 30626,
+      "name": "Aziz Dougaz",
+      "countryAcr": "TUN",
+      "country": {
+        "name": "Tunisia",
+        "acronym": "TUN"
+      }
+    }
+  },
+  {
+    "id": 4608798223,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 250,
+    "position": 223,
+    "player": {
+      "id": 32703,
+      "name": "Gijs Brouwer",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798224,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 250,
+    "position": 224,
+    "player": {
+      "id": 28774,
+      "name": "Khumoun Sultanov",
+      "countryAcr": "UZB",
+      "country": {
+        "name": "Uzbekistan",
+        "acronym": "UZB"
+      }
+    }
+  },
+  {
+    "id": 4608798225,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 246,
+    "position": 225,
+    "player": {
+      "id": 44555,
+      "name": "Jurij Rodionov",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798226,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 244,
+    "position": 226,
+    "player": {
+      "id": 36449,
+      "name": "Lloyd Harris",
+      "countryAcr": "RSA",
+      "country": {
+        "name": "South Africa",
+        "acronym": "RSA"
+      }
+    }
+  },
+  {
+    "id": 4608798227,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 244,
+    "position": 227,
+    "player": {
+      "id": 73620,
+      "name": "Zachary Svajda",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798228,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 244,
+    "position": 228,
+    "player": {
+      "id": 63737,
+      "name": "Francesco Maestrelli",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798229,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 244,
+    "position": 229,
+    "player": {
+      "id": 55290,
+      "name": "Filip Cristian Jianu",
+      "countryAcr": "ROU",
+      "country": {
+        "name": "Romania",
+        "acronym": "ROU"
+      }
+    }
+  },
+  {
+    "id": 4608798230,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 243,
+    "position": 230,
+    "player": {
+      "id": 56274,
+      "name": "Beibit Zhukayev",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798231,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 242,
+    "position": 231,
+    "player": {
+      "id": 56641,
+      "name": "Gauthier Onclin",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798232,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 241,
+    "position": 232,
+    "player": {
+      "id": 59092,
+      "name": "Titouan Droguet",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798233,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 240,
+    "position": 233,
+    "player": {
+      "id": 73196,
+      "name": "Dominic Stricker",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798234,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 238,
+    "position": 234,
+    "player": {
+      "id": 36594,
+      "name": "Valentin Vacherot",
+      "countryAcr": "MON",
+      "country": {
+        "name": "Monaco",
+        "acronym": "MON"
+      }
+    }
+  },
+  {
+    "id": 4608798235,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 237,
+    "position": 235,
+    "player": {
+      "id": 28904,
+      "name": "Vitaliy Sachko",
+      "countryAcr": "UKR",
+      "country": {
+        "name": "Ukraine",
+        "acronym": "UKR"
+      }
+    }
+  },
+  {
+    "id": 4608798236,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 235,
+    "position": 236,
+    "player": {
+      "id": 11522,
+      "name": "Bernard Tomic",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798237,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 233,
+    "position": 237,
+    "player": {
+      "id": 23640,
+      "name": "Maximilian Marterer",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798238,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 232,
+    "position": 238,
+    "player": {
+      "id": 50382,
+      "name": "Paul Jubb",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798239,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 231,
+    "position": 239,
+    "player": {
+      "id": 26153,
+      "name": "Juan Pablo Varillas",
+      "countryAcr": "PER",
+      "country": {
+        "name": "Peru",
+        "acronym": "PER"
+      }
+    }
+  },
+  {
+    "id": 4608798240,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 231,
+    "position": 240,
+    "player": {
+      "id": 80391,
+      "name": "Adolfo Daniel Vallejo",
+      "countryAcr": "PAR",
+      "country": {
+        "name": "Paraguay",
+        "acronym": "PAR"
+      }
+    }
+  },
+  {
+    "id": 4608798241,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 228,
+    "position": 241,
+    "player": {
+      "id": 34298,
+      "name": "Dominik Koepfer",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798242,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 228,
+    "position": 242,
+    "player": {
+      "id": 50143,
+      "name": "Rio Noguchi",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798243,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 228,
+    "position": 243,
+    "player": {
+      "id": 36062,
+      "name": "Marek Gengel",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798244,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 226,
+    "position": 244,
+    "player": {
+      "id": 85899,
+      "name": "Dino Prizmic",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798245,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 226,
+    "position": 245,
+    "player": {
+      "id": 80183,
+      "name": "Marat Sharipov (RUS)",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798246,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 226,
+    "position": 246,
+    "player": {
+      "id": 34968,
+      "name": "Nicolas Mejia",
+      "countryAcr": "COL",
+      "country": {
+        "name": "Colombia",
+        "acronym": "COL"
+      }
+    }
+  },
+  {
+    "id": 4608798247,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 225,
+    "position": 247,
+    "player": {
+      "id": 84083,
+      "name": "Ilia Simakin",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798248,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 224,
+    "position": 248,
+    "player": {
+      "id": 6691,
+      "name": "Albert Ramos-Vinolas",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798249,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 224,
+    "position": 249,
+    "player": {
+      "id": 28685,
+      "name": "Viktor Durasovic",
+      "countryAcr": "NOR",
+      "country": {
+        "name": "Norway",
+        "acronym": "NOR"
+      }
+    }
+  },
+  {
+    "id": 4608798250,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 224,
+    "position": 250,
+    "player": {
+      "id": 28992,
+      "name": "Jay Clarke",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798251,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 223,
+    "position": 251,
+    "player": {
+      "id": 84060,
+      "name": "Maks Kasnikowski",
+      "countryAcr": "POL",
+      "country": {
+        "name": "Poland",
+        "acronym": "POL"
+      }
+    }
+  },
+  {
+    "id": 4608798252,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 223,
+    "position": 252,
+    "player": {
+      "id": 77192,
+      "name": "Johannus Monday",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798253,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 222,
+    "position": 253,
+    "player": {
+      "id": 68393,
+      "name": "Max Houkes",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798254,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 221,
+    "position": 254,
+    "player": {
+      "id": 37105,
+      "name": "Emil Ruusuvuori",
+      "countryAcr": "FIN",
+      "country": {
+        "name": "Finland",
+        "acronym": "FIN"
+      }
+    }
+  },
+  {
+    "id": 4608798255,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 221,
+    "position": 255,
+    "player": {
+      "id": 30550,
+      "name": "Borna Gojo",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798256,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 219,
+    "position": 256,
+    "player": {
+      "id": 85523,
+      "name": "Gabriel Debru",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798257,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 218,
+    "position": 257,
+    "player": {
+      "id": 58609,
+      "name": "Matias Soto",
+      "countryAcr": "CHI",
+      "country": {
+        "name": "Chile",
+        "acronym": "CHI"
+      }
+    }
+  },
+  {
+    "id": 4608798258,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 217,
+    "position": 258,
+    "player": {
+      "id": 20396,
+      "name": "Frederico Ferreira Silva",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798259,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 215,
+    "position": 259,
+    "player": {
+      "id": 45979,
+      "name": "Yu Hsiou Hsu",
+      "countryAcr": "TPE",
+      "country": {
+        "name": "Chinese Taipei",
+        "acronym": "TPE"
+      }
+    }
+  },
+  {
+    "id": 4608798260,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 214,
+    "position": 260,
+    "player": {
+      "id": 48013,
+      "name": "Henri Squire",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798261,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 214,
+    "position": 261,
+    "player": {
+      "id": 83554,
+      "name": "Sascha Gueymard Wayenburg",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798262,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 214,
+    "position": 262,
+    "player": {
+      "id": 89396,
+      "name": "Rodrigo Pacheco Mendez",
+      "countryAcr": "MEX",
+      "country": {
+        "name": "Mexico",
+        "acronym": "MEX"
+      }
+    }
+  },
+  {
+    "id": 4608798263,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 213,
+    "position": 263,
+    "player": {
+      "id": 29953,
+      "name": "Tung-Lin Wu",
+      "countryAcr": "TPE",
+      "country": {
+        "name": "Chinese Taipei",
+        "acronym": "TPE"
+      }
+    }
+  },
+  {
+    "id": 4608798264,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 212,
+    "position": 264,
+    "player": {
+      "id": 23298,
+      "name": "Kimmer Coppejans",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798265,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 212,
+    "position": 265,
+    "player": {
+      "id": 26500,
+      "name": "Ivan Gakhov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798266,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 210,
+    "position": 266,
+    "player": {
+      "id": 74153,
+      "name": "Max Hans Rehberg",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798267,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 208,
+    "position": 267,
+    "player": {
+      "id": 50133,
+      "name": "Oliver Crawford",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798268,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 208,
+    "position": 268,
+    "player": {
+      "id": 50118,
+      "name": "Mathys Erhard",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798269,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 205,
+    "position": 269,
+    "player": {
+      "id": 42963,
+      "name": "Carlos Sanchez Jover",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798270,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 203,
+    "position": 270,
+    "player": {
+      "id": 35036,
+      "name": "Geoffrey Blancaneaux",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798271,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 199,
+    "position": 271,
+    "player": {
+      "id": 17264,
+      "name": "Denis Yevseyev",
+      "countryAcr": "KAZ",
+      "country": {
+        "name": "Kazakhstan",
+        "acronym": "KAZ"
+      }
+    }
+  },
+  {
+    "id": 4608798272,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 198,
+    "position": 272,
+    "player": {
+      "id": 79634,
+      "name": "Eliakim Coulibaly",
+      "countryAcr": "CIV",
+      "country": {
+        "name": "Cote d'Ivoire",
+        "acronym": "CIV"
+      }
+    }
+  },
+  {
+    "id": 4608798273,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 198,
+    "position": 273,
+    "player": {
+      "id": 48011,
+      "name": "Patrick Zahraj",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798274,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 198,
+    "position": 274,
+    "player": {
+      "id": 84120,
+      "name": "Mili Poljicak",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798275,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 195,
+    "position": 275,
+    "player": {
+      "id": 29462,
+      "name": "Michael Geerts",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798276,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 194,
+    "position": 276,
+    "player": {
+      "id": 64916,
+      "name": "Matheus Pucinelli De Almeida",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798277,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 193,
+    "position": 277,
+    "player": {
+      "id": 76009,
+      "name": "Abedallah Shelbayh",
+      "countryAcr": "JOR",
+      "country": {
+        "name": "Jordan",
+        "acronym": "JOR"
+      }
+    }
+  },
+  {
+    "id": 4608798278,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 190,
+    "position": 278,
+    "player": {
+      "id": 10828,
+      "name": "Radu Albot",
+      "countryAcr": "MDA",
+      "country": {
+        "name": "Moldova",
+        "acronym": "MDA"
+      }
+    }
+  },
+  {
+    "id": 4608798279,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 190,
+    "position": 279,
+    "player": {
+      "id": 26218,
+      "name": "Elias Ymer",
+      "countryAcr": "SWE",
+      "country": {
+        "name": "Sweden",
+        "acronym": "SWE"
+      }
+    }
+  },
+  {
+    "id": 4608798280,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 189,
+    "position": 280,
+    "player": {
+      "id": 85851,
+      "name": "Luka Mikrut",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798281,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 187,
+    "position": 281,
+    "player": {
+      "id": 93550,
+      "name": "Rei Sakamoto",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798282,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 187,
+    "position": 282,
+    "player": {
+      "id": 35323,
+      "name": "Matteo Martineau",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798283,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 187,
+    "position": 283,
+    "player": {
+      "id": 77659,
+      "name": "Juan Bautista Torres",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798284,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 186,
+    "position": 284,
+    "player": {
+      "id": 32764,
+      "name": "Enrico Dalla Valle",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798285,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 185,
+    "position": 285,
+    "player": {
+      "id": 26832,
+      "name": "Goncalo Oliveira",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798286,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 185,
+    "position": 286,
+    "player": {
+      "id": 62990,
+      "name": "Saba Purtseladze",
+      "countryAcr": "GEO",
+      "country": {
+        "name": "Georgia",
+        "acronym": "GEO"
+      }
+    }
+  },
+  {
+    "id": 4608798287,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 184,
+    "position": 287,
+    "player": {
+      "id": 17837,
+      "name": "Dimitar Kuzmanov",
+      "countryAcr": "BUL",
+      "country": {
+        "name": "Bulgaria",
+        "acronym": "BUL"
+      }
+    }
+  },
+  {
+    "id": 4608798288,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 184,
+    "position": 288,
+    "player": {
+      "id": 83223,
+      "name": "Daniel Merida Aguilar",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798289,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 184,
+    "position": 289,
+    "player": {
+      "id": 29459,
+      "name": "Ryan Peniston",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798290,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 183,
+    "position": 290,
+    "player": {
+      "id": 37577,
+      "name": "Genaro Alberto Olivieri",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798291,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 182,
+    "position": 291,
+    "player": {
+      "id": 104215,
+      "name": "Nicolai Budkov Kjaer",
+      "countryAcr": "NOR",
+      "country": {
+        "name": "Norway",
+        "acronym": "NOR"
+      }
+    }
+  },
+  {
+    "id": 4608798292,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 180,
+    "position": 292,
+    "player": {
+      "id": 20654,
+      "name": "Gregoire Barrere",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798293,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 180,
+    "position": 293,
+    "player": {
+      "id": 38273,
+      "name": "Javier Barranco Cosano",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798294,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 180,
+    "position": 294,
+    "player": {
+      "id": 83555,
+      "name": "Robin Bertrand",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798295,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 177,
+    "position": 295,
+    "player": {
+      "id": 48396,
+      "name": "Adrian Andreev",
+      "countryAcr": "BUL",
+      "country": {
+        "name": "Bulgaria",
+        "acronym": "BUL"
+      }
+    }
+  },
+  {
+    "id": 4608798296,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 177,
+    "position": 296,
+    "player": {
+      "id": 18495,
+      "name": "Alexey Vatutin",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798297,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 176,
+    "position": 297,
+    "player": {
+      "id": 24647,
+      "name": "Christoph Negritu",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798298,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 176,
+    "position": 298,
+    "player": {
+      "id": 12097,
+      "name": "Stefano Travaglia",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798299,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 176,
+    "position": 299,
+    "player": {
+      "id": 11981,
+      "name": "Lorenzo Giustino",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798300,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 175,
+    "position": 300,
+    "player": {
+      "id": 18414,
+      "name": "Karue Sell",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798301,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 174,
+    "position": 301,
+    "player": {
+      "id": 45197,
+      "name": "Jie Cui",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798302,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 174,
+    "position": 302,
+    "player": {
+      "id": 34103,
+      "name": "Corentin Denolly",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798303,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 173,
+    "position": 303,
+    "player": {
+      "id": 37492,
+      "name": "Andres Andrade",
+      "countryAcr": "ECU",
+      "country": {
+        "name": "Ecuador",
+        "acronym": "ECU"
+      }
+    }
+  },
+  {
+    "id": 4608798304,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 173,
+    "position": 304,
+    "player": {
+      "id": 46748,
+      "name": "Nicolas Alvarez Varona",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798305,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 173,
+    "position": 305,
+    "player": {
+      "id": 87277,
+      "name": "Arthur Gea",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798306,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 172,
+    "position": 306,
+    "player": {
+      "id": 57769,
+      "name": "Giulio Zeppieri",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798307,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 172,
+    "position": 307,
+    "player": {
+      "id": 33614,
+      "name": "Blake Ellis",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798308,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 172,
+    "position": 308,
+    "player": {
+      "id": 89131,
+      "name": "Juan Carlos Prado Angelo",
+      "countryAcr": "BOL",
+      "country": {
+        "name": "Bolivia",
+        "acronym": "BOL"
+      }
+    }
+  },
+  {
+    "id": 4608798309,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 172,
+    "position": 309,
+    "player": {
+      "id": 55828,
+      "name": "Clement Chidekh",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798310,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 171,
+    "position": 310,
+    "player": {
+      "id": 31290,
+      "name": "Andrea Vavassori",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798311,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 171,
+    "position": 311,
+    "player": {
+      "id": 47259,
+      "name": "Clement Tabur",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798312,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 169,
+    "position": 312,
+    "player": {
+      "id": 76333,
+      "name": "Aidan Mayo",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798313,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 169,
+    "position": 313,
+    "player": {
+      "id": 90203,
+      "name": "Lautaro Midon",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798314,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 168,
+    "position": 314,
+    "player": {
+      "id": 8721,
+      "name": "Andrej Martin",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798315,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 167,
+    "position": 315,
+    "player": {
+      "id": 10231,
+      "name": "Gastao Elias",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798316,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 165,
+    "position": 316,
+    "player": {
+      "id": 63016,
+      "name": "George Loffhagen",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798317,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 164,
+    "position": 317,
+    "player": {
+      "id": 9833,
+      "name": "Ricardas Berankis",
+      "countryAcr": "LTU",
+      "country": {
+        "name": "Lithuania",
+        "acronym": "LTU"
+      }
+    }
+  },
+  {
+    "id": 4608798318,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 164,
+    "position": 318,
+    "player": {
+      "id": 18348,
+      "name": "Pedro Sakamoto",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798319,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 163,
+    "position": 319,
+    "player": {
+      "id": 17928,
+      "name": "Norbert Gombos",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798320,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 161,
+    "position": 320,
+    "player": {
+      "id": 39438,
+      "name": "Charles Broom",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798321,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 161,
+    "position": 321,
+    "player": {
+      "id": 30954,
+      "name": "Christian Langmo",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798322,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 161,
+    "position": 322,
+    "player": {
+      "id": 46407,
+      "name": "Mateus Alves",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798323,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 160,
+    "position": 323,
+    "player": {
+      "id": 95698,
+      "name": "Federico Cina",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798324,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 160,
+    "position": 324,
+    "player": {
+      "id": 62258,
+      "name": "Daniel Michalski",
+      "countryAcr": "POL",
+      "country": {
+        "name": "Poland",
+        "acronym": "POL"
+      }
+    }
+  },
+  {
+    "id": 4608798325,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 160,
+    "position": 325,
+    "player": {
+      "id": 36042,
+      "name": "Oleg Prihodko",
+      "countryAcr": "UKR",
+      "country": {
+        "name": "Ukraine",
+        "acronym": "UKR"
+      }
+    }
+  },
+  {
+    "id": 4608798326,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 160,
+    "position": 326,
+    "player": {
+      "id": 73983,
+      "name": "Gonzalo Bueno",
+      "countryAcr": "PER",
+      "country": {
+        "name": "Peru",
+        "acronym": "PER"
+      }
+    }
+  },
+  {
+    "id": 4608798327,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 158,
+    "position": 327,
+    "player": {
+      "id": 13209,
+      "name": "Maxime Chazal",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798328,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 157,
+    "position": 328,
+    "player": {
+      "id": 84377,
+      "name": "Mika Brunold",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798329,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 156,
+    "position": 329,
+    "player": {
+      "id": 21524,
+      "name": "Jelle Sels",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798330,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 155,
+    "position": 330,
+    "player": {
+      "id": 18771,
+      "name": "Oriol Roca Batalla",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798331,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 155,
+    "position": 331,
+    "player": {
+      "id": 50504,
+      "name": "Jakub Paul",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798332,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 155,
+    "position": 332,
+    "player": {
+      "id": 29579,
+      "name": "Bernabe Zapata Miralles",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798333,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 154,
+    "position": 333,
+    "player": {
+      "id": 91448,
+      "name": "Justin Engel",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798334,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 154,
+    "position": 334,
+    "player": {
+      "id": 41484,
+      "name": "Nikolas Sanchez-Izquierdo",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798335,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 154,
+    "position": 335,
+    "player": {
+      "id": 35296,
+      "name": "Remy Bertola",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798336,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 153,
+    "position": 336,
+    "player": {
+      "id": 64479,
+      "name": "Robert Strombachs",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798337,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 152,
+    "position": 337,
+    "player": {
+      "id": 53726,
+      "name": "Cezar Cretu",
+      "countryAcr": "ROU",
+      "country": {
+        "name": "Romania",
+        "acronym": "ROU"
+      }
+    }
+  },
+  {
+    "id": 4608798338,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 150,
+    "position": 338,
+    "player": {
+      "id": 79067,
+      "name": "Jack Pinnington Jones",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798339,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 150,
+    "position": 339,
+    "player": {
+      "id": 22761,
+      "name": "Nerman Fatic",
+      "countryAcr": "BIH",
+      "country": {
+        "name": "Bosnia and Herzegovina",
+        "acronym": "BIH"
+      }
+    }
+  },
+  {
+    "id": 4608798340,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 150,
+    "position": 340,
+    "player": {
+      "id": 51846,
+      "name": "Alex Marti Pujolras",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798341,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 149,
+    "position": 341,
+    "player": {
+      "id": 60951,
+      "name": "Patrick Maloney",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798342,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 148,
+    "position": 342,
+    "player": {
+      "id": 26925,
+      "name": "Michael Mmoh",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798343,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 148,
+    "position": 343,
+    "player": {
+      "id": 46718,
+      "name": "Patrick Kypson",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798344,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 148,
+    "position": 344,
+    "player": {
+      "id": 69574,
+      "name": "Tyler Zink",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798345,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 148,
+    "position": 345,
+    "player": {
+      "id": 42990,
+      "name": "Masamichi Imamura",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798346,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 148,
+    "position": 346,
+    "player": {
+      "id": 85308,
+      "name": "Petr Bar Biryukov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798347,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 148,
+    "position": 347,
+    "player": {
+      "id": 38107,
+      "name": "Giovanni Fonio",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798348,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 147,
+    "position": 348,
+    "player": {
+      "id": 28074,
+      "name": "Seongchan Hong",
+      "countryAcr": "KOR",
+      "country": {
+        "name": "Korea, Rep.",
+        "acronym": "KOR"
+      }
+    }
+  },
+  {
+    "id": 4608798349,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 147,
+    "position": 349,
+    "player": {
+      "id": 97369,
+      "name": "Joel Schwaerzler",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798350,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 147,
+    "position": 350,
+    "player": {
+      "id": 7732,
+      "name": "Daniel Dutra Da Silva",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798351,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 147,
+    "position": 351,
+    "player": {
+      "id": 12534,
+      "name": "Renzo Olivo",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798352,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 146,
+    "position": 352,
+    "player": {
+      "id": 95464,
+      "name": "Matej Dodig",
+      "countryAcr": "CRO",
+      "country": {
+        "name": "Croatia",
+        "acronym": "CRO"
+      }
+    }
+  },
+  {
+    "id": 4608798353,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 146,
+    "position": 353,
+    "player": {
+      "id": 61537,
+      "name": "Nicholas David Ionel",
+      "countryAcr": "ROU",
+      "country": {
+        "name": "Romania",
+        "acronym": "ROU"
+      }
+    }
+  },
+  {
+    "id": 4608798354,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 144,
+    "position": 354,
+    "player": {
+      "id": 23090,
+      "name": "Naoki Nakagawa",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798355,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 144,
+    "position": 355,
+    "player": {
+      "id": 58432,
+      "name": "Oleksandr Ovcharenko",
+      "countryAcr": "UKR",
+      "country": {
+        "name": "Ukraine",
+        "acronym": "UKR"
+      }
+    }
+  },
+  {
+    "id": 4608798356,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 144,
+    "position": 356,
+    "player": {
+      "id": 86156,
+      "name": "Hynek Barton",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798357,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 144,
+    "position": 357,
+    "player": {
+      "id": 50000,
+      "name": "Joao Lucas Reis Da Silva",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798358,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 143,
+    "position": 358,
+    "player": {
+      "id": 84561,
+      "name": "Marko Topo",
+      "countryAcr": "SRB",
+      "country": {
+        "name": "Serbia",
+        "acronym": "SRB"
+      }
+    }
+  },
+  {
+    "id": 4608798359,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 141,
+    "position": 359,
+    "player": {
+      "id": 46722,
+      "name": "Jeff Wolf",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798360,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 141,
+    "position": 360,
+    "player": {
+      "id": 58005,
+      "name": "Philip Henning",
+      "countryAcr": "RSA",
+      "country": {
+        "name": "South Africa",
+        "acronym": "RSA"
+      }
+    }
+  },
+  {
+    "id": 4608798361,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 141,
+    "position": 361,
+    "player": {
+      "id": 58723,
+      "name": "Franco Roncadelli",
+      "countryAcr": "URU",
+      "country": {
+        "name": "Uruguay",
+        "acronym": "URU"
+      }
+    }
+  },
+  {
+    "id": 4608798362,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 138,
+    "position": 362,
+    "player": {
+      "id": 58591,
+      "name": "Garrett Johns",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798363,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 137,
+    "position": 363,
+    "player": {
+      "id": 54996,
+      "name": "Gabi Adrian Boitan",
+      "countryAcr": "ROU",
+      "country": {
+        "name": "Romania",
+        "acronym": "ROU"
+      }
+    }
+  },
+  {
+    "id": 4608798364,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 135,
+    "position": 364,
+    "player": {
+      "id": 36470,
+      "name": "Mats Rosenkranz",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798365,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 134,
+    "position": 365,
+    "player": {
+      "id": 9675,
+      "name": "Martin Klizan",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798366,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 134,
+    "position": 366,
+    "player": {
+      "id": 22992,
+      "name": "Benjamin Lock",
+      "countryAcr": "ZIM",
+      "country": {
+        "name": "Zimbabwe",
+        "acronym": "ZIM"
+      }
+    }
+  },
+  {
+    "id": 4608798367,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 133,
+    "position": 367,
+    "player": {
+      "id": 97973,
+      "name": "Yi Zhou",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798368,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 133,
+    "position": 368,
+    "player": {
+      "id": 23100,
+      "name": "Pedro Cachin",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798369,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 133,
+    "position": 369,
+    "player": {
+      "id": 40605,
+      "name": "Dan Added",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798370,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 133,
+    "position": 370,
+    "player": {
+      "id": 59169,
+      "name": "Andre Ilagan",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798371,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 131,
+    "position": 371,
+    "player": {
+      "id": 47324,
+      "name": "Govind Nanda",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798372,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 130,
+    "position": 372,
+    "player": {
+      "id": 104494,
+      "name": "Diego Dedura-Palomero",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798373,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 130,
+    "position": 373,
+    "player": {
+      "id": 50146,
+      "name": "Moerani Bouzige",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798374,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 128,
+    "position": 374,
+    "player": {
+      "id": 79064,
+      "name": "Leandro Riedi",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798375,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 128,
+    "position": 375,
+    "player": {
+      "id": 59163,
+      "name": "Alexey Zakharov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798376,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 128,
+    "position": 376,
+    "player": {
+      "id": 81995,
+      "name": "Luciano Emanuel Ambrogi",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798377,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 128,
+    "position": 377,
+    "player": {
+      "id": 79066,
+      "name": "Andres Martin",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798378,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 127,
+    "position": 378,
+    "player": {
+      "id": 75042,
+      "name": "Alex Barrena",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798379,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 127,
+    "position": 379,
+    "player": {
+      "id": 53159,
+      "name": "Alastair Gray",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798380,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 126,
+    "position": 380,
+    "player": {
+      "id": 20104,
+      "name": "Marco Cecchinato",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798381,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 125,
+    "position": 381,
+    "player": {
+      "id": 33904,
+      "name": "Raul Brancaccio",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798382,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 125,
+    "position": 382,
+    "player": {
+      "id": 54208,
+      "name": "Florent Bax",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798383,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 125,
+    "position": 383,
+    "player": {
+      "id": 68981,
+      "name": "Max Alcala Gurri",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798384,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 125,
+    "position": 384,
+    "player": {
+      "id": 55634,
+      "name": "Neil Oberleitner",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798385,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 124,
+    "position": 385,
+    "player": {
+      "id": 44209,
+      "name": "Sandro Kopp",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798386,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 124,
+    "position": 386,
+    "player": {
+      "id": 61966,
+      "name": "Guido Ivan Justo",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798387,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 124,
+    "position": 387,
+    "player": {
+      "id": 73399,
+      "name": "Toby Alex Kodat",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798388,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 123,
+    "position": 388,
+    "player": {
+      "id": 55656,
+      "name": "Kasidit Samrej",
+      "countryAcr": "THA",
+      "country": {
+        "name": "Thailand",
+        "acronym": "THA"
+      }
+    }
+  },
+  {
+    "id": 4608798389,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 123,
+    "position": 389,
+    "player": {
+      "id": 86348,
+      "name": "Gerard Campana Lee",
+      "countryAcr": "KOR",
+      "country": {
+        "name": "Korea, Rep.",
+        "acronym": "KOR"
+      }
+    }
+  },
+  {
+    "id": 4608798390,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 123,
+    "position": 390,
+    "player": {
+      "id": 86545,
+      "name": "Gabriele Pennaforti",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798391,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 123,
+    "position": 391,
+    "player": {
+      "id": 69729,
+      "name": "Pedro Boscardin Dias",
+      "countryAcr": "BRA",
+      "country": {
+        "name": "Brazil",
+        "acronym": "BRA"
+      }
+    }
+  },
+  {
+    "id": 4608798392,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 121,
+    "position": 392,
+    "player": {
+      "id": 40795,
+      "name": "Matthew Dellavedova",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798393,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 120,
+    "position": 393,
+    "player": {
+      "id": 48825,
+      "name": "Daniil Glinka",
+      "countryAcr": "EST",
+      "country": {
+        "name": "Estonia",
+        "acronym": "EST"
+      }
+    }
+  },
+  {
+    "id": 4608798394,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 119,
+    "position": 394,
+    "player": {
+      "id": 26059,
+      "name": "Hyeon Chung",
+      "countryAcr": "KOR",
+      "country": {
+        "name": "Korea, Rep.",
+        "acronym": "KOR"
+      }
+    }
+  },
+  {
+    "id": 4608798395,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 119,
+    "position": 395,
+    "player": {
+      "id": 48442,
+      "name": "Rudolf Molleker",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798396,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 118,
+    "position": 396,
+    "player": {
+      "id": 30944,
+      "name": "Alfredo Perez",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798397,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 118,
+    "position": 397,
+    "player": {
+      "id": 36276,
+      "name": "Kris Van Wyk",
+      "countryAcr": "RSA",
+      "country": {
+        "name": "South Africa",
+        "acronym": "RSA"
+      }
+    }
+  },
+  {
+    "id": 4608798398,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 117,
+    "position": 398,
+    "player": {
+      "id": 29905,
+      "name": "Mariano Kestelboim",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798399,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 117,
+    "position": 399,
+    "player": {
+      "id": 46422,
+      "name": "Jacopo Berrettini",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798400,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 116,
+    "position": 400,
+    "player": {
+      "id": 30397,
+      "name": "Manuel Guinard",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798401,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 115,
+    "position": 401,
+    "player": {
+      "id": 18648,
+      "name": "Nicolas Kicker",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798402,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 115,
+    "position": 402,
+    "player": {
+      "id": 92649,
+      "name": "Tiago Pereira",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798403,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 114,
+    "position": 403,
+    "player": {
+      "id": 39310,
+      "name": "Yibing Wu",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798404,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 114,
+    "position": 404,
+    "player": {
+      "id": 82262,
+      "name": "Tom Paris",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798405,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 114,
+    "position": 405,
+    "player": {
+      "id": 35986,
+      "name": "Adria Soriano Barrera",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798406,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 113,
+    "position": 406,
+    "player": {
+      "id": 91530,
+      "name": "Svyatoslav Gulin",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798407,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 113,
+    "position": 407,
+    "player": {
+      "id": 69015,
+      "name": "Andrea Picchione",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798408,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 113,
+    "position": 408,
+    "player": {
+      "id": 30496,
+      "name": "Lucas Poullain",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798409,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 112,
+    "position": 409,
+    "player": {
+      "id": 56577,
+      "name": "Ryan Seggerman",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798410,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 112,
+    "position": 410,
+    "player": {
+      "id": 22429,
+      "name": "Dennis Novak",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798411,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 112,
+    "position": 411,
+    "player": {
+      "id": 80500,
+      "name": "Milos Karol",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798412,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 112,
+    "position": 412,
+    "player": {
+      "id": 84323,
+      "name": "Lukas Pokorny",
+      "countryAcr": "SVK",
+      "country": {
+        "name": "Slovakia",
+        "acronym": "SVK"
+      }
+    }
+  },
+  {
+    "id": 4608798413,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 111,
+    "position": 413,
+    "player": {
+      "id": 28895,
+      "name": "Maxime Janvier",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798414,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 111,
+    "position": 414,
+    "player": {
+      "id": 25365,
+      "name": "Marc Polmans",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798415,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 111,
+    "position": 415,
+    "player": {
+      "id": 69561,
+      "name": "Micah Braswell",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798416,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 111,
+    "position": 416,
+    "player": {
+      "id": 22428,
+      "name": "Evgeny Karlovskiy",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798417,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 110,
+    "position": 417,
+    "player": {
+      "id": 23301,
+      "name": "Enzo Couacaud",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798418,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 110,
+    "position": 418,
+    "player": {
+      "id": 29943,
+      "name": "Yusuke Takahashi",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798419,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 110,
+    "position": 419,
+    "player": {
+      "id": 82696,
+      "name": "Maximus Jones",
+      "countryAcr": "THA",
+      "country": {
+        "name": "Thailand",
+        "acronym": "THA"
+      }
+    }
+  },
+  {
+    "id": 4608798420,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 109,
+    "position": 420,
+    "player": {
+      "id": 67703,
+      "name": "Stefan Dostanic",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798421,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 109,
+    "position": 421,
+    "player": {
+      "id": 24841,
+      "name": "Gonzalo Villanueva",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798422,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 107,
+    "position": 422,
+    "player": {
+      "id": 16998,
+      "name": "Maximilian Neuchrist",
+      "countryAcr": "AUT",
+      "country": {
+        "name": "Austria",
+        "acronym": "AUT"
+      }
+    }
+  },
+  {
+    "id": 4608798423,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 107,
+    "position": 423,
+    "player": {
+      "id": 20463,
+      "name": "Gianluca Mager",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798424,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 107,
+    "position": 424,
+    "player": {
+      "id": 57304,
+      "name": "Michael Vrbensky",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798425,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 107,
+    "position": 425,
+    "player": {
+      "id": 74151,
+      "name": "Max Wiskandt",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798426,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 106,
+    "position": 426,
+    "player": {
+      "id": 21329,
+      "name": "Joris De Loore",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798427,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 106,
+    "position": 427,
+    "player": {
+      "id": 60139,
+      "name": "Lilian Marmousez",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798428,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 105,
+    "position": 428,
+    "player": {
+      "id": 22323,
+      "name": "Roberto Cid Subervi",
+      "countryAcr": "DOM",
+      "country": {
+        "name": "Dominican Republic",
+        "acronym": "DOM"
+      }
+    }
+  },
+  {
+    "id": 4608798429,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 105,
+    "position": 429,
+    "player": {
+      "id": 30856,
+      "name": "Zdenek Kolar",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798430,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 105,
+    "position": 430,
+    "player": {
+      "id": 38936,
+      "name": "Ergi Kirkin",
+      "countryAcr": "TUR",
+      "country": {
+        "name": "Turkey",
+        "acronym": "TUR"
+      }
+    }
+  },
+  {
+    "id": 4608798431,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 105,
+    "position": 431,
+    "player": {
+      "id": 73268,
+      "name": "Valerio Aboian",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798432,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 105,
+    "position": 432,
+    "player": {
+      "id": 58606,
+      "name": "Ryan Nijboer",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798433,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 104,
+    "position": 433,
+    "player": {
+      "id": 71188,
+      "name": "Giles Hussey",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798434,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 104,
+    "position": 434,
+    "player": {
+      "id": 79813,
+      "name": "Samuel Vincent Ruggeri",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798435,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 104,
+    "position": 435,
+    "player": {
+      "id": 74880,
+      "name": "Stefanos Sakellaridis",
+      "countryAcr": "GRE",
+      "country": {
+        "name": "Greece",
+        "acronym": "GRE"
+      }
+    }
+  },
+  {
+    "id": 4608798436,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 102,
+    "position": 436,
+    "player": {
+      "id": 26221,
+      "name": "Stefan Kozlov",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798437,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 102,
+    "position": 437,
+    "player": {
+      "id": 44990,
+      "name": "Michiel De Krom",
+      "countryAcr": "NED",
+      "country": {
+        "name": "Netherlands",
+        "acronym": "NED"
+      }
+    }
+  },
+  {
+    "id": 4608798438,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 102,
+    "position": 438,
+    "player": {
+      "id": 27783,
+      "name": "Mukund Sasikumar",
+      "countryAcr": "IND",
+      "country": {
+        "name": "India",
+        "acronym": "IND"
+      }
+    }
+  },
+  {
+    "id": 4608798439,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 101,
+    "position": 439,
+    "player": {
+      "id": 54207,
+      "name": "Maxime Cressy",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798440,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 101,
+    "position": 440,
+    "player": {
+      "id": 23816,
+      "name": "Daniel Masur",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798441,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 101,
+    "position": 441,
+    "player": {
+      "id": 71419,
+      "name": "Pedro Araujo",
+      "countryAcr": "POR",
+      "country": {
+        "name": "Portugal",
+        "acronym": "POR"
+      }
+    }
+  },
+  {
+    "id": 4608798442,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 100,
+    "position": 442,
+    "player": {
+      "id": 11704,
+      "name": "Milos Raonic",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798443,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 100,
+    "position": 443,
+    "player": {
+      "id": 73918,
+      "name": "Philip Sekulic",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798444,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 100,
+    "position": 444,
+    "player": {
+      "id": 92094,
+      "name": "Henry Searle",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798445,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 100,
+    "position": 445,
+    "player": {
+      "id": 95883,
+      "name": "Aryan Shah",
+      "countryAcr": "IND",
+      "country": {
+        "name": "India",
+        "acronym": "IND"
+      }
+    }
+  },
+  {
+    "id": 4608798446,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 99,
+    "position": 446,
+    "player": {
+      "id": 11521,
+      "name": "Hiroki Moriya",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798447,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 98,
+    "position": 447,
+    "player": {
+      "id": 79692,
+      "name": "Alessandro Pecci",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798448,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 98,
+    "position": 448,
+    "player": {
+      "id": 30104,
+      "name": "Aleksandre Bakshi",
+      "countryAcr": "GEO",
+      "country": {
+        "name": "Georgia",
+        "acronym": "GEO"
+      }
+    }
+  },
+  {
+    "id": 4608798449,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 98,
+    "position": 449,
+    "player": {
+      "id": 30801,
+      "name": "Vadym Ursu",
+      "countryAcr": "UKR",
+      "country": {
+        "name": "Ukraine",
+        "acronym": "UKR"
+      }
+    }
+  },
+  {
+    "id": 4608798450,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 98,
+    "position": 450,
+    "player": {
+      "id": 56420,
+      "name": "Oleksii Krutykh",
+      "countryAcr": "UKR",
+      "country": {
+        "name": "Ukraine",
+        "acronym": "UKR"
+      }
+    }
+  },
+  {
+    "id": 4608798451,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 97,
+    "position": 451,
+    "player": {
+      "id": 59356,
+      "name": "Anton Matusevich",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798452,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 97,
+    "position": 452,
+    "player": {
+      "id": 46749,
+      "name": "Juan Carlos Manuel Aguilar",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798453,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 97,
+    "position": 453,
+    "player": {
+      "id": 86619,
+      "name": "Gabriele Piraino",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798454,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 97,
+    "position": 454,
+    "player": {
+      "id": 64258,
+      "name": "Alvin Nicholas Tudorica",
+      "countryAcr": "CAN",
+      "country": {
+        "name": "Canada",
+        "acronym": "CAN"
+      }
+    }
+  },
+  {
+    "id": 4608798455,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 96,
+    "position": 455,
+    "player": {
+      "id": 21548,
+      "name": "Laurent Lokoli",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798456,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 96,
+    "position": 456,
+    "player": {
+      "id": 81784,
+      "name": "Petr Nesterov",
+      "countryAcr": "BUL",
+      "country": {
+        "name": "Bulgaria",
+        "acronym": "BUL"
+      }
+    }
+  },
+  {
+    "id": 4608798457,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 95,
+    "position": 457,
+    "player": {
+      "id": 71614,
+      "name": "Inaki Montes-De La Torre",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798458,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 95,
+    "position": 458,
+    "player": {
+      "id": 73055,
+      "name": "Alexandr Binda",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798459,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 94,
+    "position": 459,
+    "player": {
+      "id": 29937,
+      "name": "Alex Rybakov",
+      "countryAcr": "USA",
+      "country": {
+        "name": "United States",
+        "acronym": "USA"
+      }
+    }
+  },
+  {
+    "id": 4608798460,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 93,
+    "position": 460,
+    "player": {
+      "id": 83696,
+      "name": "Leo Borg",
+      "countryAcr": "SWE",
+      "country": {
+        "name": "Sweden",
+        "acronym": "SWE"
+      }
+    }
+  },
+  {
+    "id": 4608798461,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 93,
+    "position": 461,
+    "player": {
+      "id": 41083,
+      "name": "Miguel Damas",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798462,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 93,
+    "position": 462,
+    "player": {
+      "id": 43553,
+      "name": "Sergey Fomin",
+      "countryAcr": "UZB",
+      "country": {
+        "name": "Uzbekistan",
+        "acronym": "UZB"
+      }
+    }
+  },
+  {
+    "id": 4608798463,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 92,
+    "position": 463,
+    "player": {
+      "id": 96517,
+      "name": "Gianluca Cadenasso",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798464,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 92,
+    "position": 464,
+    "player": {
+      "id": 35225,
+      "name": "Alexander Weis",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798465,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 92,
+    "position": 465,
+    "player": {
+      "id": 36114,
+      "name": "Moez Echargui",
+      "countryAcr": "TUN",
+      "country": {
+        "name": "Tunisia",
+        "acronym": "TUN"
+      }
+    }
+  },
+  {
+    "id": 4608798466,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 92,
+    "position": 466,
+    "player": {
+      "id": 86351,
+      "name": "Tom Gentzsch",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798467,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 92,
+    "position": 467,
+    "player": {
+      "id": 34352,
+      "name": "Ajeet Rai",
+      "countryAcr": "NZL",
+      "country": {
+        "name": "New Zealand",
+        "acronym": "NZL"
+      }
+    }
+  },
+  {
+    "id": 4608798468,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 91,
+    "position": 468,
+    "player": {
+      "id": 29889,
+      "name": "Evgenii Tiurnev",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798469,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 91,
+    "position": 469,
+    "player": {
+      "id": 38469,
+      "name": "Arthur Reymond",
+      "countryAcr": "FRA",
+      "country": {
+        "name": "France",
+        "acronym": "FRA"
+      }
+    }
+  },
+  {
+    "id": 4608798470,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 91,
+    "position": 470,
+    "player": {
+      "id": 22269,
+      "name": "Kaichi Uchida",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798471,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 91,
+    "position": 471,
+    "player": {
+      "id": 49987,
+      "name": "Stuart Parker",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798472,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 90,
+    "position": 472,
+    "player": {
+      "id": 27114,
+      "name": "Jake Delaney",
+      "countryAcr": "AUS",
+      "country": {
+        "name": "Australia",
+        "acronym": "AUS"
+      }
+    }
+  },
+  {
+    "id": 4608798473,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 90,
+    "position": 473,
+    "player": {
+      "id": 76725,
+      "name": "Egor Agafonov",
+      "countryAcr": "RUS",
+      "country": {
+        "name": "Russia",
+        "acronym": "RUS"
+      }
+    }
+  },
+  {
+    "id": 4608798474,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 89,
+    "position": 474,
+    "player": {
+      "id": 23099,
+      "name": "Hernan Casanova",
+      "countryAcr": "ARG",
+      "country": {
+        "name": "Argentina",
+        "acronym": "ARG"
+      }
+    }
+  },
+  {
+    "id": 4608798475,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 89,
+    "position": 475,
+    "player": {
+      "id": 71976,
+      "name": "Fabrizio Andaloro",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798476,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 88,
+    "position": 476,
+    "player": {
+      "id": 87865,
+      "name": "Bor Artnak",
+      "countryAcr": "SLO",
+      "country": {
+        "name": "Slovenia",
+        "acronym": "SLO"
+      }
+    }
+  },
+  {
+    "id": 4608798477,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 88,
+    "position": 477,
+    "player": {
+      "id": 77866,
+      "name": "Andrej Nedic",
+      "countryAcr": "BIH",
+      "country": {
+        "name": "Bosnia and Herzegovina",
+        "acronym": "BIH"
+      }
+    }
+  },
+  {
+    "id": 4608798478,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 88,
+    "position": 478,
+    "player": {
+      "id": 54380,
+      "name": "Tommaso Compagnucci",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798479,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 88,
+    "position": 479,
+    "player": {
+      "id": 61856,
+      "name": "Tibo Colson",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798480,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 88,
+    "position": 480,
+    "player": {
+      "id": 70035,
+      "name": "Woobin Shin",
+      "countryAcr": "KOR",
+      "country": {
+        "name": "Korea, Rep.",
+        "acronym": "KOR"
+      }
+    }
+  },
+  {
+    "id": 4608798481,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 87,
+    "position": 481,
+    "player": {
+      "id": 84556,
+      "name": "Kokoro Isomura",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798482,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 87,
+    "position": 482,
+    "player": {
+      "id": 92247,
+      "name": "Federico Bondioli",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798483,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 85,
+    "position": 483,
+    "player": {
+      "id": 79065,
+      "name": "Arthur Fery",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798484,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 85,
+    "position": 484,
+    "player": {
+      "id": 23335,
+      "name": "Yurii Dzhavakian",
+      "countryAcr": "UKR",
+      "country": {
+        "name": "Ukraine",
+        "acronym": "UKR"
+      }
+    }
+  },
+  {
+    "id": 4608798485,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 84,
+    "position": 485,
+    "player": {
+      "id": 17972,
+      "name": "Franco Agamenone",
+      "countryAcr": "ITA",
+      "country": {
+        "name": "Italy",
+        "acronym": "ITA"
+      }
+    }
+  },
+  {
+    "id": 4608798486,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 83,
+    "position": 486,
+    "player": {
+      "id": 30230,
+      "name": "Peter Bertran",
+      "countryAcr": "DOM",
+      "country": {
+        "name": "Dominican Republic",
+        "acronym": "DOM"
+      }
+    }
+  },
+  {
+    "id": 4608798487,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 83,
+    "position": 487,
+    "player": {
+      "id": 92054,
+      "name": "Gilles Arnaud Bailly",
+      "countryAcr": "BEL",
+      "country": {
+        "name": "Belgium",
+        "acronym": "BEL"
+      }
+    }
+  },
+  {
+    "id": 4608798488,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 83,
+    "position": 488,
+    "player": {
+      "id": 70459,
+      "name": "Martin Krumich",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798489,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 82,
+    "position": 489,
+    "player": {
+      "id": 85862,
+      "name": "Kilian Feldbausch",
+      "countryAcr": "SUI",
+      "country": {
+        "name": "Switzerland",
+        "acronym": "SUI"
+      }
+    }
+  },
+  {
+    "id": 4608798490,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 82,
+    "position": 490,
+    "player": {
+      "id": 63018,
+      "name": "Juan Alejandro Hernandez",
+      "countryAcr": "MEX",
+      "country": {
+        "name": "Mexico",
+        "acronym": "MEX"
+      }
+    }
+  },
+  {
+    "id": 4608798491,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 81,
+    "position": 491,
+    "player": {
+      "id": 50386,
+      "name": "Aidan Mchugh",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798492,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 80,
+    "position": 492,
+    "player": {
+      "id": 67981,
+      "name": "Andrew Paulson",
+      "countryAcr": "CZE",
+      "country": {
+        "name": "Czech Republic",
+        "acronym": "CZE"
+      }
+    }
+  },
+  {
+    "id": 4608798493,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 80,
+    "position": 493,
+    "player": {
+      "id": 18669,
+      "name": "David Jorda Sanchis",
+      "countryAcr": "ESP",
+      "country": {
+        "name": "Spain",
+        "acronym": "ESP"
+      }
+    }
+  },
+  {
+    "id": 4608798494,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 80,
+    "position": 494,
+    "player": {
+      "id": 45977,
+      "name": "Sanhui Shin",
+      "countryAcr": "KOR",
+      "country": {
+        "name": "Korea, Rep.",
+        "acronym": "KOR"
+      }
+    }
+  },
+  {
+    "id": 4608798495,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 79,
+    "position": 495,
+    "player": {
+      "id": 25539,
+      "name": "Shintaro Imai",
+      "countryAcr": "JPN",
+      "country": {
+        "name": "Japan",
+        "acronym": "JPN"
+      }
+    }
+  },
+  {
+    "id": 4608798496,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 79,
+    "position": 496,
+    "player": {
+      "id": 65558,
+      "name": "Harry Wendelken",
+      "countryAcr": "GBR",
+      "country": {
+        "name": "Great Britain",
+        "acronym": "GBR"
+      }
+    }
+  },
+  {
+    "id": 4608798497,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 78,
+    "position": 497,
+    "player": {
+      "id": 28762,
+      "name": "Soon-Woo Kwon",
+      "countryAcr": "KOR",
+      "country": {
+        "name": "Korea, Rep.",
+        "acronym": "KOR"
+      }
+    }
+  },
+  {
+    "id": 4608798498,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 78,
+    "position": 498,
+    "player": {
+      "id": 36278,
+      "name": "Rigele Te",
+      "countryAcr": "CHN",
+      "country": {
+        "name": "China",
+        "acronym": "CHN"
+      }
+    }
+  },
+  {
+    "id": 4608798499,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 78,
+    "position": 499,
+    "player": {
+      "id": 52968,
+      "name": "Marvin Moeller",
+      "countryAcr": "GER",
+      "country": {
+        "name": "Germany",
+        "acronym": "GER"
+      }
+    }
+  },
+  {
+    "id": 4608798500,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 78,
+    "position": 500,
+    "player": {
+      "id": 10014,
+      "name": "Mirza Basic",
+      "countryAcr": "BIH",
+      "country": {
+        "name": "Bosnia and Herzegovina",
+        "acronym": "BIH"
+      }
+    }
+  },
+  {
+    "id": 4608798501,
+    "date": "2025-05-19T00:00:00.000Z",
+    "point": 78,
+    "position": 501,
+    "player": {
+      "id": 86083,
+      "name": "Karan Singh",
+      "countryAcr": "IND",
+      "country": {
+        "name": "India",
+        "acronym": "IND"
+      }
+    }
+  }
+]
